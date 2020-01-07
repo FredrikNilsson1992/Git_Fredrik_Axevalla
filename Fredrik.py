@@ -1,1 +1,1 @@
-print("Jag kom på att jag inte behöver en define så jag ändrade den för att spara plats men nu tar säkert meddelandet mer bits i utrymme än vad mina fösta tog. Jag använder fortfarande svenska.")
+#Läraren har valt att använda min kod som exempel på hur man inte skriver kod. Därför finns bara en kommentar i slutversionen.
